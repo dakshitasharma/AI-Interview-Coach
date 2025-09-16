@@ -1,0 +1,9 @@
+streamlit==1.26.1
+pyngrok==5.2.1
+langchain==0.0.240
+langchain-community==0.0.20
+langchain-google-genai==0.0.3
+chromadb==0.4.5
+google-genai==0.0.1
+huggingface-hub==0.16.4
+transformers==4.30.2
